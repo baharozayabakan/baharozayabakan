@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @baharozayabakan
 - 👀 I’m interested in explore new things .
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on HAVELSAN in my next years.
 - 📫 You can reach me @baharozayabakan account in Instagram.
 
 <!---
