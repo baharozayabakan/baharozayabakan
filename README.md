@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baharozayabakan
 - 👀 I’m interested in explore new things .
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python. Also I am learning and building projects with .NET framework
 - 📫 You can reach me @baharozayabakan account in Instagram.
 
 <!---
